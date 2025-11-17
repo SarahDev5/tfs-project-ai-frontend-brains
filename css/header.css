@@ -26,6 +26,10 @@
   }
 }
 
+.header__logoImage {
+  width:500px;
+}
+
 /* header nav */
 
 .header__nav {
